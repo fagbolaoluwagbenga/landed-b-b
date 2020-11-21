@@ -1,0 +1,7 @@
+{
+  "name": "landbnb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
